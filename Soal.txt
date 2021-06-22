@@ -1,0 +1,26 @@
+Essay :
+1. Buatlah sebuah program yang mencetak angka dari 1 sampai dengan 120, yang mana, 
+bila angka merupakan kelipatan tiga akan mencetak kata “Fizz” (tanpa tanda petik dua), 
+lalu bila angka merupakan kelipatan lima akan mencetak “Buzz”, 
+dan jika angka merupakan kelipatan tiga dan lima kedua-duanya, maka akan mencetak “FizzBuzz”.
+
+2. Banyak sekali framework dalam bahasa pemrograman yang lagi trend sekarang, 
+sebutkan framework web dan mobile app (backend dan frontend) yang anda ketahui 
+dan beri nomor urut awal yang paling anda bisa dan suka dan jelaskan mengapa.
+
+3. Print 2 top max number dari sebuah array Int. contoh : 
+sebuah array  arrNum dengan datanya [7, 10, 20, 14, 10, 17]. 
+maka hasil printnya adalah max number = 20, second max number = 17.
+
+4.  Di matematika, Deret Fibonacci merupakan deretan angka sekuensial : 
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144,… . 
+Buatlah sebuah fungsi untuk mengecek sebuah inputan integer apakah angka 
+tersebut termasuk angka Fibonacci atau tidak. Contoh, nama fungsi adalah isFibonacci(n), 
+jika kita inputkan nilai n = 5 , fungsi tersebut akan mengeluarkan hasil True, 
+akan tetapi jika kita input nilai n = 7, akan mengeluarkan hasil False.
+
+5. Bagaimana Query untuk menampilkan seluruh data dari table dibawah ini :
+
+6. Tulislah dengan jujur berapa lama waktu yang anda butuhkan untuk menyelesaikan sampai dengan 
+tuntas setiap soal-soal ini dan jelaskan apa saja alasannya?, 
+serta apa yang memotivasi diri anda untuk menjadi programer di SISI ?
