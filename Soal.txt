@@ -20,7 +20,7 @@ jika kita inputkan nilai n = 5 , fungsi tersebut akan mengeluarkan hasil True,
 akan tetapi jika kita input nilai n = 7, akan mengeluarkan hasil False.
 
 5. Bagaimana Query untuk menampilkan seluruh data dari table dibawah ini :
-Gambar ada di No5.JPG
+Gambar ada di No5.JPG  : https://github.com/cyberstackover/test-tech-sisi/blob/main/No5.JPG
 
 6. Buat fungsi untuk mengecek kata tsb bersifat Palindrome atau bukan dimana valuenya sbg berikut :
 "Katak"
