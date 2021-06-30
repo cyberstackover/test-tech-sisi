@@ -20,7 +20,15 @@ jika kita inputkan nilai n = 5 , fungsi tersebut akan mengeluarkan hasil True,
 akan tetapi jika kita input nilai n = 7, akan mengeluarkan hasil False.
 
 5. Bagaimana Query untuk menampilkan seluruh data dari table dibawah ini :
+Gambar ada di No5.JPG
 
-6. Tulislah dengan jujur berapa lama waktu yang anda butuhkan untuk menyelesaikan sampai dengan 
+6. Buat fungsi untuk mengecek kata tsb bersifat Palindrome atau bukan dimana valuenya sbg berikut :
+"Katak"
+"Sukak"
+"Makan"
+"Malam"
+"Hari"
+
+7. Tulislah dengan jujur berapa lama waktu yang anda butuhkan untuk menyelesaikan sampai dengan 
 tuntas setiap soal-soal ini dan jelaskan apa saja alasannya?, 
 serta apa yang memotivasi diri anda untuk menjadi programer di SISI ?
